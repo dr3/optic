@@ -1,12 +1,12 @@
 export default class Optic {
     constructor(element) {
-        this.el = document.getElementById(element);;
+        this.el = document.getElementById(element);
 
         this.init();
     }
 
     init() {
-        console.log('👁👁 init()')
+        //console.log('👁👁 init()')
         //Build Canvas
     }
 
